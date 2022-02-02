@@ -1,9 +1,9 @@
 # Project D - Battleship
 
 ## **Group Members**
-###### Joona Helenius    519996
-###### Oona Leppänen     520291
-###### Valtteri Virtanen 511106
+###### Joona Helenius    joalhel@utu.fi
+###### Oona Leppänen     oklepp@utu.fi
+###### Valtteri Virtanen vamivir@utu.fi
 
 ## **Member responsibilities**
 
