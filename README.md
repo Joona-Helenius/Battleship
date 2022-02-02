@@ -1,4 +1,4 @@
-# Project D - Battleship
+# Battleship
 
 ## **Group Members**
 ###### Joona Helenius    joalhel@utu.fi
